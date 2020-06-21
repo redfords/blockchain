@@ -9,3 +9,5 @@ The aim of this project is to create a basic 'blockchain' in Java and implement 
 [Implementing a Simple Blockchain in Java](https://www.baeldung.com/java-blockchain)
 
 [The Blockchain Development Mega Guide](https://medium.com/programmers-blockchain/blockchain-development-mega-guide-5a316e6d10df)
+
+[Blockchain Developers Club](https://discord.com/invite/ZsyQqyk)
