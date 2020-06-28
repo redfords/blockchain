@@ -1,4 +1,6 @@
+import java.security.Security;
 import java.util.ArrayList;
+import java.util.Base64;
 import com.google.gson.GsonBuilder;
 
 public class BlockChain {
